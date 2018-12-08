@@ -1,18 +1,4 @@
-# the_simple_poll_app
-
-Just a simple poll app
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-"# the_simple_poll_app" 
-"# the_simple_poll_app" 
+# The Simple Poll App
+  
+This project is an online poll creator.
+It allows other users to answer your questions
